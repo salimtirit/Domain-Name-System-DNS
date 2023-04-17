@@ -35,3 +35,9 @@ This class acts as a DNS server. The server should be able to add a new domain n
 
 ## Conclusion
 In this project, I implemented a simple version of the Domain Name System (DNS) mechanism as a tree structure using Java. This implementation allowed me to understand the basic functionalities and structure of DNS and how it can be used to translate domain names into IP addresses.
+
+## Contributing
+If you have any suggestions or find any issues with the code, please feel free to contribute to the project by opening a pull request or creating an issue.
+
+## Credits
+This is the third project of CMPE160 Introduction to Object Oriented Programming class in Spring 2020.
